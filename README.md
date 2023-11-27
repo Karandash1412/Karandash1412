@@ -6,7 +6,7 @@ Aspiring Web Developer with a passion for creating dynamic and user-friendly web
 * 🧠  I'm learning Application Programming Interface(API) {REST:API}
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
 ### Skills
