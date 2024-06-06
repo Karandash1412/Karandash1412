@@ -3,8 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Aspiring Web Developer with a passion for creating dynamic and user-friendly websites. Proficient in the following technologies: HTML, CSS, JavaScript, Node.js, Express.js, and EJS (Embedded JavaScript). I am a fast learner, sharp, and committed to continuous learning. My goal is to evolve into a fully-fledged developer capable of handling both frontend and backend aspects of web development.
 
-* 🧠  I'm learning Application Programming Interface(API) {REST:API}
-
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
