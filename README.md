@@ -1,8 +1,7 @@
- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karandash1412!
+ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) welcome to my profile data!
 ======================================================================================================================================
 
-Welcome to my GitHub profile! I'm Mykola a Frontend Software Engineer passionate about building performant web applications. <br/>
-I create engaging user experiences and scalable solutions using modern web technologies.
+I'm a Frontend Software Engineer passionate about building performant web applications.
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
@@ -11,10 +10,11 @@ I create engaging user experiences and scalable solutions using modern web techn
 ---
 
 ## 🚀 About Me
-
-- 🤓 Currently honing my skills in **MedusaJS** and **TypeScript**
-- ⚡ Fascinated by **React Query**, **state management**, and **authentication workflows**
-
+- 🎯 Frontend Engineer with a strong interest in e-commerce and modern UI.
+- 🤓 Currently diving deep into **MedusaJS**, **TypeScript**, and **React Query**
+- ⚙️ Exploring backend tech like **C#** to broaden my full-stack skills
+- 🧠 Always curious and open to learning new things!
+  
 ---
 
 ## 🛠️ Skills
@@ -22,38 +22,35 @@ I create engaging user experiences and scalable solutions using modern web techn
 ### Programming Languages
 - **JavaScript**
 - **TypeScript**
+- **C#**
 
 ### Frontend Development
 - **React**
-  - React Router / TanStack Router
-  - React Query
-- **HTML5**, **CSS3**, **SCSS**, **Tailwind**
+  - React Router 
+  - React Query / TanStack Router
+- **HTML5**, **CSS3**, **Tailwind**, 
 - **MedusaJS** (E-commerce Framework)
+- **Razor**
 
 ### Backend Development
 - **Node.js**
 - **Express.js**
 - **REST APIs**
+- **C#**
 
 ### Tools & Technologies
 - **Git & GitHub**
-- **PostgreSQL**
+- **PostgreSQL / Table+**
+- **Testing libraries such as Jest, Playwright**
+- **Storybook**
 - **Stripe Integration**
 - **Docker**
 - **Railway** (Cloud Hosting)
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced **TypeScript** patterns
-- Optimizing **MedusaJS** workflows
-- **Unit Testing** and **End-to-End Testing**
-- Enhancing my **authentication** and **middleware** skills
-
 ## 🤝 Let's Connect
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/mykolakardash)
-- 🌐 [Portfolio Website](https://www.kardash-web.net/)
+- 🌐 [Portfolio](https://www.kardash-web.net)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or chat about web development!
