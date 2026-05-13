@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 🚀 Frontend Engineer | E-commerce Enthusiast | Full-Stack Learner
+### 🚀 Full-Stack Engineer
 
 Passionate about building modern web experiences and expanding my skills across the stack.
 
