@@ -12,7 +12,7 @@ Passionate about building modern web experiences and expanding my skills across 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykolakardash)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.kardash-web.net)
-[![Second Github](https://img.shields.io/badge/Second_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mykola-144)
+[![Second Github](https://img.shields.io/badge/Second_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mykola144)
 
 
 </div>
